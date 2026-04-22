@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FoodScanner",
+  "description": "Advanced AI-powered food safety and quality analysis system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
